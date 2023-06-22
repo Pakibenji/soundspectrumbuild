@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cae4f17d.css",
+    "main.js": "/static/js/main.56a3f363.js",
+    "static/media/spectrum.gif": "/static/media/spectrum.b7ee834e8162b9b61125.gif",
+    "static/media/all.webp": "/static/media/all.681335616f246b3eeaa6.webp",
+    "static/media/disco.webp": "/static/media/disco.62b78c764cc2ae681d4c.webp",
+    "static/media/classical.webp": "/static/media/classical.f634fc919fdd9356b35e.webp",
+    "static/media/dance.webp": "/static/media/dance.f774bc3135cd4d7abb70.webp",
+    "static/media/notes.gif": "/static/media/notes.ba6b67897dd937641533.gif",
+    "static/media/built_titling_bd.otf": "/static/media/built_titling_bd.921cab3618cecf2c961e.otf",
+    "static/media/jazz.webp": "/static/media/jazz.2de7068f9a4a9e725960.webp",
+    "static/media/pop.webp": "/static/media/pop.4b7ae616869067218faf.webp",
+    "static/media/rap.webp": "/static/media/rap.0faed149b1c8bbb18822.webp",
+    "static/media/accid___.ttf": "/static/media/accid___.f982cae1263c6f918928.ttf",
+    "static/media/retro.webp": "/static/media/retro.57f28ba10b79f6c0ce6c.webp",
+    "static/media/country.webp": "/static/media/country.1f71681d68ab11c76782.webp",
+    "static/media/rock.webp": "/static/media/rock.576c9fe118525a7555a4.webp",
+    "static/media/house.webp": "/static/media/house.d1f35f9051e2eadb4f86.webp",
+    "index.html": "/index.html",
+    "main.cae4f17d.css.map": "/static/css/main.cae4f17d.css.map",
+    "main.56a3f363.js.map": "/static/js/main.56a3f363.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cae4f17d.css",
+    "static/js/main.56a3f363.js"
+  ]
+}
